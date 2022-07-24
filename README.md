@@ -29,7 +29,7 @@
   <a href="#warning-pré-requisitos"> Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/thiilins" target="_blank">Autor</a>
+  <a href="https://github.com/Gustavokurek" target="_blank">Autor</a>
 </p>
 
 <br>
@@ -108,7 +108,7 @@ $ yarn dev
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-Feito com :heart: por <a href="https://github.com/thiilins" target="_blank">Thiago Lins</a>
+Feito com :heart: por <a href="https://github.com/Gustavokurek" target="_blank">Gustavo Kurek</a>
 
 &#xa0;
 
